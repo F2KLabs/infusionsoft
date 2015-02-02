@@ -1,0 +1,21 @@
+{
+    "name": "jakedewitt87/Larvel5ISiSDK",
+	"description": "A port of Infusionsoft's PHP SDK to composer package for Laravel 5",
+	"authors": [
+	        {
+	            "name": "Jake DeWitt",
+	            "email": "jakedewitt87@gmail.com"
+	        }
+	],
+    "require": {
+        "php": ">=5.4.0",
+		"illuminate/support": "dev-master"
+    },
+	"autoload": {
+		
+		"psr-0": {
+		            "Spoolphiz\\Infusionsoft": "src/"
+		}
+    },
+	"minimum-stability": "dev"
+}
