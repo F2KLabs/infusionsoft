@@ -20,9 +20,9 @@ class InfusionsoftServiceProvider extends ServiceProvider {
 	 */
 	public function boot()
 	{
-		$this->package('Jakedewitt87/infusionsoft');
+		$this->package('jakedewitt87/infusionsoft');
 		
-		//Config::package('Jakedewitt87/infusionsoft', __DIR__.'/../../../config');
+		//Config::package('jakedewitt87/infusionsoft', __DIR__.'/../../../config');
 	}
 
 	/**

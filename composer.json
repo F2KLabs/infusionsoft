@@ -1,5 +1,5 @@
 {
-    "name": "jakedewitt87/Larvel5ISiSDK",
+    "name": "jakedewitt87/infusionsoft",
 	"description": "A port of Infusionsoft's PHP SDK to composer package for Laravel 5",
 	"authors": [
 	        {
